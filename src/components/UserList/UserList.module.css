@@ -1,0 +1,9 @@
+.user-list {
+  height: 100vh;
+  padding: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 45px;
+}
